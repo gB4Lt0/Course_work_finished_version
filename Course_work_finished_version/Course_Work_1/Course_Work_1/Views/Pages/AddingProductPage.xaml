@@ -1,0 +1,135 @@
+﻿<Page x:Class="Course_Work_1.AddingProductPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Course_Work_1"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1200"
+      Title="Add" Background="#686de0"
+      >
+
+    <Grid >
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Width="943" >
+            <StackPanel Orientation="Horizontal" Margin="15">
+                <Label Content="Name" 
+                       Height="50" 
+                       VerticalAlignment="Top"       
+                       Width="310" 
+                       FontSize="30" 
+                       FontWeight="Bold"
+                       FontFamily="Aqum two"
+                       />
+                <TextBox x:Name="textBoxName" 
+                         HorizontalAlignment="Center" 
+                         Height="50" 
+                         Text="" 
+                         TextWrapping="NoWrap" 
+                         VerticalAlignment="Top" 
+                         Width="600" FontSize="30"
+                         FontFamily="Aqum two"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="15">
+                <Label Content="Description" 
+                       Height="50" 
+                       VerticalAlignment="Top" 
+                       Width="310" FontSize="30" 
+                       FontWeight="Bold"
+                       FontFamily="Aqum two"/>
+                <TextBox x:Name="textBoxDescription" 
+                         HorizontalAlignment="Center" 
+                         Height="50" 
+                         Text="" 
+                         TextWrapping="NoWrap" 
+                         VerticalAlignment="Top" 
+                         Width="600" FontSize="30"
+                         FontFamily="Aqum two"/>
+            </StackPanel>
+
+
+            <StackPanel Orientation="Horizontal" Margin="15" >
+                <Label Content="Price" 
+                       Height="50"
+                       VerticalAlignment="Top" 
+                       Width="310" 
+                       FontSize="30" FontWeight="Bold"
+                       FontFamily="Aqum two"/>
+                <TextBox x:Name="textBoxPrice" 
+                         Height="50" 
+                         Text="" 
+                         TextWrapping="NoWrap" 
+                         VerticalAlignment="Top" 
+                         Width="600" 
+                         FontSize="30"
+                         FontFamily="Aqum two"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="15">
+
+                <Label Content="Type Of File" 
+                       HorizontalAlignment="Left" 
+                       Height="50" 
+                       VerticalAlignment="Top" 
+                       Width="310" 
+                       FontSize="30" 
+                       FontWeight="Bold"
+                       FontFamily="Aqum two"/>
+                <ComboBox x:Name="comboBoxTypeOfFile" 
+                          HorizontalAlignment="Center" 
+                          Height="50"
+                          Text="" 
+                          VerticalAlignment="Top" 
+                          Width="600" 
+                          FontSize="30" SelectionChanged="comboBoxTypeOfFile_SelectionChanged"
+                          FontFamily="Aqum two">
+                    <ComboBoxItem>
+                        <TextBlock Text="Game"/>
+                    </ComboBoxItem>
+
+                    <ComboBoxItem>
+                        <TextBlock Text="Video"/>
+                    </ComboBoxItem>
+
+                    <ComboBoxItem>
+                        <TextBlock Text="Program"/>
+                    </ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="15">
+                <Label x:Name="lableGenre"
+                       Content="X" 
+                       Height="50" 
+                       VerticalAlignment="Top" 
+                    
+                       Width="310" 
+                       FontSize="30" 
+                       FontWeight="Bold"
+                       FontFamily="Aqum two"/>
+                <ComboBox x:Name="comBoxGenre"
+                          HorizontalAlignment="Center" 
+                          Height="50"
+                          Text="" 
+                          VerticalAlignment="Top" 
+                          Width="600" 
+                          FontSize="30"
+                          FontFamily="Aqum two">
+
+                </ComboBox>
+            </StackPanel>
+
+
+            <Button Content="Save" 
+                    Margin="1"
+                    HorizontalAlignment="Center" 
+                    Height="60" 
+                    Width="274" 
+                    FontSize="40" 
+                    FontWeight="Bold" Click="Save_Click"
+                    FontFamily="Aqum two"
+                 />
+        </StackPanel>
+
+    </Grid>
+</Page>

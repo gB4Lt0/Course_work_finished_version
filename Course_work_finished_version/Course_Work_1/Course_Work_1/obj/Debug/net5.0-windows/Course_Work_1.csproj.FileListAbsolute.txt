@@ -1,0 +1,156 @@
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.exe
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.deps.json
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.json
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.dev.json
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.pdb
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\App.g.cs
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.cache
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.lref
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.g.resources
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfo.cs
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\refint\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.pdb
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.genruntimeconfig.cache
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\ref\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\ControlzEx.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MahApps.Metro.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.MahApps.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialSkin.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\AddingProductPage.g.cs
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\AddingProductPage.baml
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CopyComplete
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\AddingProductList.g.cs
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\AddingProductList.baml
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\ProductSoldPage.g.cs
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\ProductSoldPage.baml
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\RentalProductsPage.g.cs
+D:\Home work\OOP\2course\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\RentalProductsPage.baml
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.exe
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.deps.json
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.json
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.dev.json
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.pdb
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\ControlzEx.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MahApps.Metro.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialSkin.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.AssemblyReference.cache
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\AddingProductPage.g.cs
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductSoldPage.g.cs
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\RentalProductsPage.g.cs
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Windows\MainWindow.g.cs
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.cache
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.lref
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\AddingProductPage.baml
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductSoldPage.baml
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\RentalProductsPage.baml
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Windows\MainWindow.baml
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.g.resources
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfoInputs.cache
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfo.cs
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CoreCompileInputs.cache
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CopyComplete
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\refint\Course_Work_1.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.pdb
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.genruntimeconfig.cache
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\ref\Course_Work_1.dll
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductListPage.g.cs
+C:\Users\Nyashuka\Desktop\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductListPage.baml
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.exe
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.deps.json
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.json
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.dev.json
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.pdb
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\ControlzEx.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MahApps.Metro.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.MahApps.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialSkin.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\AddingProductPage.g.cs
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductListPage.g.cs
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductSoldPage.g.cs
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\RentalProductsPage.g.cs
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Windows\MainWindow.g.cs
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\App.g.cs
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.cache
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.lref
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\AddingProductPage.baml
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductListPage.baml
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductSoldPage.baml
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\RentalProductsPage.baml
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Windows\MainWindow.baml
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.g.resources
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfo.cs
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CopyComplete
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\refint\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.pdb
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.genruntimeconfig.cache
+D:\Home work\OOP\2course\Course_work_final\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\ref\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.exe
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.deps.json
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.json
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.runtimeconfig.dev.json
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Course_Work_1.pdb
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\ControlzEx.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MahApps.Metro.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialDesignThemes.MahApps.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\MaterialSkin.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.AssemblyReference.cache
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\AddingProductPage.g.cs
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductListPage.g.cs
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductSoldPage.g.cs
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\RentalProductsPage.g.cs
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Windows\MainWindow.g.cs
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\App.g.cs
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.cache
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1_MarkupCompile.lref
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\AddingProductPage.baml
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductListPage.baml
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\ProductSoldPage.baml
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Pages\RentalProductsPage.baml
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Views\Windows\MainWindow.baml
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.g.resources
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfoInputs.cache
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.AssemblyInfo.cs
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CoreCompileInputs.cache
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.csproj.CopyComplete
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\refint\Course_Work_1.dll
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.pdb
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\Course_Work_1.genruntimeconfig.cache
+D:\Home work\OOP\2course\Course_work_finished_version\Course_Work_1\Course_Work_1\obj\Debug\net5.0-windows\ref\Course_Work_1.dll

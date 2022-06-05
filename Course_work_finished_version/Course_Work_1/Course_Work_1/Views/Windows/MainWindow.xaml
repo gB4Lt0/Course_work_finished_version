@@ -1,0 +1,64 @@
+﻿<Window x:Class="Course_Work_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Course_Work_1"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="600" Height="600" Width="1240" MinWidth="1240"
+        Background="#686de0" BorderThickness="0">
+    <Grid>
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Orientation="Vertical" Margin="15,10,15,0" 
+                        VerticalAlignment="Top"
+                        Grid.Column="0" Height="552">
+
+                <Border Background="White" 
+                        CornerRadius="20"
+                        Height="170"
+                        >
+                    <Border Background="#686de0" 
+                            CornerRadius="20"
+                            Height="150"
+                            Width="240">
+                        <StackPanel>
+                            <TextBlock FontSize="30" 
+                                       Text="     B4Lt0 &#10;Media Shop" 
+                                       FontFamily="Aqum two" FontWeight="Normal" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White">
+                            </TextBlock>
+                            <materialDesign:PackIcon Kind="ShoppingMusic" Width="60" Height="60" Foreground="White" HorizontalAlignment="Center" Margin="5"/>
+                        </StackPanel>
+                    </Border>
+
+                </Border>
+
+
+                <Button MinHeight="25" Content="Add a product"  Margin="0 10" Click="Button_Click_Add" FontSize="20" FontFamily="Aqum two"/>
+                <Button MinHeight="25" Content="Product list"  Margin="0 10" Click="Button_Click_List" FontSize="20" FontFamily="Aqum two"/>
+                <Button MinHeight="25" Content="Rented products"  Margin="0 10" Click="Button_Click_Rented_Products" FontSize="20" FontFamily="Aqum two"/>
+                <Button MinHeight="25" Content="Product sold"  Margin="0 10" Click="Button_Click_Product_Sold" FontSize="20" FontFamily="Aqum two"/>
+
+                
+            </StackPanel>
+
+            <Grid Grid.Column="900" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Border Background="#FFFFFF" BorderThickness="2" CornerRadius="15">
+                    <Frame x:Name="MainFrame" JournalEntry.KeepAlive="False"></Frame>
+                </Border>
+            </Grid>
+
+
+        </Grid>
+
+
+
+
+    </Grid>
+</Window>
